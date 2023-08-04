@@ -4,3 +4,4 @@
 // GITHUB: https://github.com/umaams
 
 console.log("Hello, I'm Umam from Indonesia");
+console.log('Hi, i'm ayo from Nigeria');
